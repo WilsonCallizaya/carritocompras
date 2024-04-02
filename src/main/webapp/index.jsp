@@ -17,7 +17,7 @@
     </head>
     <body>
         <h1>Carrito de Compras</h1>
-        <p>Inserte los productos que desea ahora mismo</p>
+        <p>Inserte los productos que desea</p>
         <form action="MainServlet" method="post"> 
             Producto:<input type="text" name="producto">
             <input type="submit">
